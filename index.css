@@ -17,9 +17,6 @@
     align-items: center;
     justify-content: center;
 }
-body{
-    overflow-x: hidden;
-}
 header {
     overflow: hidden;
     height: 100vh;
