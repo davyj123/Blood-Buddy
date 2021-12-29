@@ -8,11 +8,12 @@
 * {
     margin: 0px;
     padding: 0px;
+    box-sizing: border-box;
 }
 
 #homevideo{
     height: auto;
-    width: 100%;
+    min-width: 100%;
     align-items: center;
     justify-content: center;
 }
