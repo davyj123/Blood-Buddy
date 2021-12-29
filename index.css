@@ -9,9 +9,6 @@
     margin: 0px;
     padding: 0px;
 }
-body{
-    overflow-x: hidden;
-}
 
 #homevideo{
     height: auto;
@@ -49,7 +46,7 @@ header {
 
 
 #nav {
-    width: 100%;
+    width: 90%;
     color: black;
     position: absolute;
     top: 10%;
@@ -421,6 +418,7 @@ main {
     padding-top: 20px;
     text-align: center;
 }
+
 
 html{
     scroll-behavior: smooth;
